@@ -1,0 +1,218 @@
+{
+  "company": {
+    "symbol": "OGDC",
+    "name": "Oil & Gas Development Company Ltd",
+    "sector": "Oil and Gas",
+    "year_end": "June",
+    "face_value": 10.00,
+    "description": "Oil and Gas Development Company Limited (OGDCL) was incorporated on 23 October 1997 under the Companies Ordinance 1984 (now Companies Act 2017). The company explores, develops, produces and sells oil and gas resources."
+  },
+
+  "market_data": {
+    "price": 290.41,
+    "change": 6.74,
+    "change_percent": 2.38,
+    "volume": 3597651,
+    "avg_volume_12m": 6048719,
+    "market_cap_bn": 1249.03
+  },
+
+  "price_ranges": {
+    "day_range": {
+      "low": 280.50,
+      "high": 292.99
+    },
+    "range_1_month": {
+      "low": 283.67,
+      "high": 333.56
+    },
+    "range_6_month": {
+      "low": 240.15,
+      "high": 333.90
+    },
+    "range_52_week": {
+      "low": 174.26,
+      "high": 337.10
+    }
+  },
+
+  "performance": {
+    "1_month_percent": -12.33,
+    "3_month_percent": 15.80,
+    "6_month_percent": 11.28,
+    "1_year_percent": 41.79
+  },
+
+  "capital_structure": {
+    "paid_up_capital_mn": 43009.28,
+    "authorized_capital_mn": 50000.00,
+    "total_shares_mn": 4300.93,
+    "free_float_mn": 645.14,
+    "free_float_percent": 15.00,
+    "beta": 1.38
+  },
+
+  "earnings": {
+    "latest_eps_2026_q1": 8.91,
+    "eps_last_quarter_2026_q1": 8.91,
+    "last_annual_eps_2025": 39.50,
+    "pe_ratio_2025": 7.35,
+    "expected_pe_2026": 8.15,
+    "expected_earning_growth_percent": -9.77,
+    "peg_ratio": -0.83
+  },
+
+  "important_ratios": {
+    "gross_margin_percent": 57.73,
+    "sales_growth_yoy_percent": -13.48,
+    "sales_growth_qoq_percent": 6.56,
+    "enterprise_value_per_share": 330.30,
+    "book_value_per_share": 322.25,
+    "debt_to_equity_percent": 21.07,
+    "dividend_x_date": "07-Nov-2025",
+    "dividend_percent": 35
+  },
+
+  "eps_history_yearly": {
+    "2018": 18.31,
+    "2019": 27.53,
+    "2020": 23.27,
+    "2021": 21.28,
+    "2022": 31.11,
+    "2023": 52.23,
+    "2024": 48.59,
+    "2025": 39.50
+  },
+
+  "eps_history_quarterly": {
+    "2022": {
+      "Q1": 7.82,
+      "Q2": 12.39,
+      "Q3": 11.40,
+      "Q4": 8.91
+    },
+    "2023": {
+      "Q1": 9.70,
+      "Q2": 17.27,
+      "Q3": 0,
+      "Q4": 10.03
+    },
+    "2024": {
+      "Q1": 15.03,
+      "Q2": 10.96,
+      "Q3": 0,
+      "Q4": 5.06
+    },
+    "2025": {
+      "Q1": 8.81,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0
+    }
+  },
+
+  "equity_ratios": {
+    "book_value": 322.25,
+    "expected_book_value": 344.31,
+    "book_value_growth_percent": 7.82,
+    "expected_book_growth_percent": 6.85,
+    "price_to_book": 0.90,
+    "expected_price_to_book": 0.84,
+    "roe_percent": 12.60,
+    "expected_roe_percent": 10.35,
+    "retention_ratio_percent": 61.90,
+    "equity_to_assets_percent": 81.48,
+    "roa_percent": 10.27,
+    "roce_percent": 14.65
+  },
+
+  "dividends": {
+    "latest_dividend": 3.50,
+    "last_quarter_dividend": 3.50,
+    "last_annual_dividend": 15.05,
+    "dividend_yield_percent": 5.18,
+    "expected_dividend": 13.58,
+    "expected_dividend_yield_percent": 4.68,
+    "expected_dividend_growth_percent": -9.77,
+    "dividend_cover": 2.62,
+    "payout_ratio_percent": 38.10,
+    "expected_payout_ratio_percent": 38.10
+  },
+
+  "sales": {
+    "sales_per_share": 93.28,
+    "expected_sales_per_share": 89.46,
+    "price_to_sales": 3.11,
+    "expected_price_to_sales": 3.25,
+    "sales_growth_percent": -13.48,
+    "expected_sales_growth_percent": -4.09
+  },
+
+  "enterprise_value": {
+    "ev_to_sales": 3.43,
+    "expected_ev_to_sales": 3.69,
+    "enterprise_value_bn": 1420.61,
+    "market_cap_bn": 1249.03,
+    "ev_to_ebitda": 5.34,
+    "ev_per_share": 330.30
+  },
+
+  "cash": {
+    "cash_flow_per_share": 41.86,
+    "cash_per_share": 2.91
+  },
+
+  "profitability": {
+    "net_profit_margin_percent": 42.35,
+    "gross_profit_margin_percent": 57.73,
+    "ebit_margin_percent": 55.86,
+    "ebitda_margin_percent": 64.27,
+    "net_interest_margin_percent": 146.66
+  },
+
+  "liquidity": {
+    "interest_cover_percent": 49.11,
+    "times_interest_earned": null,
+    "inventory_turnover_percent": 425.46,
+    "asset_turnover_percent": 24.25,
+    "current_ratio": 10.44,
+    "effective_tax_rate_percent": 39.17,
+    "quick_ratio": 8.96,
+    "net_interest_to_assets_percent": 14.00
+  },
+
+  "solvency": {
+    "long_debt_to_equity_percent": 13.28,
+    "total_debt_to_equity_percent": 21.07,
+    "long_debt_to_assets_percent": 10.97,
+    "total_debt_to_assets_percent": 17.40
+  },
+
+  "announcements": [
+    {
+      "date": "20-Feb-2026",
+      "type": "Other",
+      "title": "Oil and Gas Discovery at Baragzai X-01 (Slant) Over Lumshiwal Formation Nashpa Block"
+    },
+    {
+      "date": "19-Feb-2026",
+      "type": "Other",
+      "title": "OGDCL Tests Gas Condensate Well Dars West-3"
+    },
+    {
+      "date": "16-Feb-2026",
+      "type": "Other",
+      "title": "Production Enhancement at Kal Field"
+    },
+    {
+      "date": "13-Feb-2026",
+      "type": "Board Meeting",
+      "title": "Board Meeting Scheduled 21-Feb-2026"
+    },
+    {
+      "date": "23-Jan-2026",
+      "type": "Other",
+      "title": "Receipt of Seventh Interest Payment Under TFCs by Power Holding Limited"
+    }
+  ]
+}
